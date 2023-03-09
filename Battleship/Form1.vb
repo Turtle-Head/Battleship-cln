@@ -2,7 +2,7 @@
     'Author: James Fehr 2023-03-09
     'Battleship Project
     '-----------------------------------------------------------------------------------
-    Dim GBA(,) As String ' = {{"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}} 'array of Os
+    Dim GBA(,) As String ' = {{"*", "*", "*", "*", "*"}, {"*", "*", "*", "*", "*"}, {"*", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}} 'array of Os
     Sub PrintBoard()
         Output1.Clear()
         For Index = 0 To GBA.GetUpperBound(0)                       'starting for loop
@@ -19,7 +19,7 @@
         'Initialize Gameboard
 
 
-        GBA = New String(4, 4) {{"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}, {"ⓞ", "ⓞ", "ⓞ", "ⓞ", "ⓞ"}} 'array of Os
+        GBA = New String(4, 4) {{"◎", "◎", "◎", "◎", "◎"}, {"◎", "◎", "◎", "◎", "◎"}, {"◎", "◎", "◎", "◎", "◎"}, {"◎", "◎", "◎", "◎", "◎"}, {"◎", "◎", "◎", "◎", "◎"}} 'array of Os
         PrintBoard()
         MessageBox.Show("Battleship Initialized")                              'Message the output value for user
 

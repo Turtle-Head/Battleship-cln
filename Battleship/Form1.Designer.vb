@@ -49,6 +49,8 @@ Partial Class Form1
         ' 
         ' Output1
         ' 
+        Output1.BackColor = SystemColors.Desktop
+        Output1.ForeColor = Color.GreenYellow
         Output1.Location = New Point(21, 51)
         Output1.Name = "Output1"
         Output1.Size = New Size(100, 96)
@@ -74,6 +76,7 @@ Partial Class Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = Color.MidnightBlue
         ClientSize = New Size(206, 217)
         Controls.Add(Yv)
         Controls.Add(Xv)
