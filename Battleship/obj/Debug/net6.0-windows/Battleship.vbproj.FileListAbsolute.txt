@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\bin\Debug\net6.0-windows\Battleship.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\bin\Debug\net6.0-windows\Battleship.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\bin\Debug\net6.0-windows\Battleship.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\bin\Debug\net6.0-windows\Battleship.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\bin\Debug\net6.0-windows\Battleship.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.Form1.resources
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\refint\Battleship.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\Battleship.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\BShip\Battleship\obj\Debug\net6.0-windows\ref\Battleship.dll
