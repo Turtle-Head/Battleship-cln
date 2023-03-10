@@ -43,18 +43,23 @@ Partial Class Form1
         Fire.Location = New Point(21, 163)
         Fire.Name = "Fire"
         Fire.Size = New Size(100, 23)
-        Fire.TabIndex = 1
+        Fire.TabIndex = 3
         Fire.Text = "Fire"
         Fire.UseVisualStyleBackColor = True
         ' 
         ' Output1
         ' 
-        Output1.BackColor = SystemColors.Desktop
-        Output1.ForeColor = Color.GreenYellow
+        Output1.BackColor = SystemColors.ControlText
+        Output1.Cursor = Cursors.Hand
+        Output1.Font = New Font("Tahoma", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
+        Output1.ForeColor = Color.Gold
         Output1.Location = New Point(21, 51)
         Output1.Name = "Output1"
+        Output1.ReadOnly = True
+        Output1.ScrollBars = RichTextBoxScrollBars.None
         Output1.Size = New Size(100, 96)
         Output1.TabIndex = 2
+        Output1.TabStop = False
         Output1.Text = ""' 
         ' Xv
         ' 
@@ -62,7 +67,7 @@ Partial Class Form1
         Xv.Name = "Xv"
         Xv.PlaceholderText = "X val"
         Xv.Size = New Size(46, 23)
-        Xv.TabIndex = 3
+        Xv.TabIndex = 1
         ' 
         ' Yv
         ' 
@@ -70,7 +75,7 @@ Partial Class Form1
         Yv.Name = "Yv"
         Yv.PlaceholderText = "Y val"
         Yv.Size = New Size(46, 23)
-        Yv.TabIndex = 4
+        Yv.TabIndex = 2
         ' 
         ' Form1
         ' 
